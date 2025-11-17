@@ -1,0 +1,7 @@
+{
+  "name": "Lingua Coach AI",
+  "description": "An interactive, AI-powered language tutor that offers personalized lessons through real-time voice conversations, adapting to any age and learning style.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
